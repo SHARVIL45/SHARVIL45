@@ -1,3 +1,5 @@
+![GIF!](https://github.com/user-attachments/assets/115dac4a-8895-4abf-9024-23296b75dd3f)
+
 ## Hi 👋 I'm Sharvil
 
 🎓 Final-year B.Tech Instrumentation Engineering student  
