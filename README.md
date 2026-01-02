@@ -1,7 +1,6 @@
-![GIF!](https://github.com/user-attachments/assets/115dac4a-8895-4abf-9024-23296b75dd3f)
+![ezgif com-resize](https://github.com/user-attachments/assets/267d467a-6d33-42e9-a30f-a281466bec56)
 
 ## Hi 👋 I'm Sharvil
-
 🎓 Final-year B.Tech Instrumentation Engineering student  
 🔧 IoT | Embedded Systems | Python | Firebase | AI  
 🌦️ Built an AI-powered Weather Monitoring & Prediction System  
