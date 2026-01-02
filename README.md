@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Sharvil
 
-<!--
-**SHARVIL45/SHARVIL45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Instrumentation Engineering student  
+🔧 IoT | Embedded Systems | Python | Firebase | AI  
+🌦️ Built an AI-powered Weather Monitoring & Prediction System  
 
-Here are some ideas to get you started:
+🔥 Projects
+- Weather Monitoring WebApp (ESP8266 + Firebase + Gemini)
+- Python Weather Prediction Model
+- 3D Food Printer (Arduino + NEMA 17)
+- Industrial Automation Project (PLC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills
+- Arduino, ESP8266, Sensors
+- Python, Firebase, React
+- Basics of PLC & SCADA
+
+📫 Email: sharvildhutraj1@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sharvil-dhutraj-9bb44a2b4/
